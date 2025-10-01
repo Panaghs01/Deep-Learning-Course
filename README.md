@@ -6,4 +6,4 @@
 - AutoEncoders
 - GANs
 - Augmentations
-- LLMs
+- Transformer
